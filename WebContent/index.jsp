@@ -438,6 +438,8 @@ function cursorReset() {
 </head>
 <body>
 
+<div>hello</div>
+
 <div class="sidenav">
 	<div style="padding:5px 0 8px 10px;font-size:13px;" id="area">
 		<select onchange="markerDel(); getDosi(this.value); cursorReset();">
